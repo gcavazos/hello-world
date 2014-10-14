@@ -1,4 +1,6 @@
-hello-world
+Hello-World!
 ===========
+Test of a new Repository
 
-Just another repository
+I'm learning how to use Git!
+
